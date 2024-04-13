@@ -1,0 +1,58 @@
+/* android page 1 */
+.icons span {
+  margin-left: 7px;
+  height: 20px;
+  width: 50px;
+  font-size: 20px;
+}
+
+.skip-btn a {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+}
+.time {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  color: #252727;
+}
+
+.service label {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+.service p {
+  width: 343px;
+  height: 60px;
+}
+
+/* android4.html */
+.roboto-thin {
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
+input {
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+}
+form button {
+  background-image: linear-gradient(to left, #7b91ff, #95beff);
+}
+
+.checkboxes label {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.android9 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.timings p{
+  font-family: "Montserrat", sans-serif;
+}
